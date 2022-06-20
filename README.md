@@ -14,8 +14,12 @@ Distribuição Systemback 1.9.3 para:
 ## 🛠️ INSTALAÇÃO
                           
 **Instalação de dependências**
+- `$ sudo apt install libqt5core5a live-boot isolinux syslinuux-utils libqt5gui5 libqt5widgets xterm`
 - `$ sudo apt-get install unionfs-fuse live-boot`
 - `$ sudo apt-get install grub2-common grub-efi-amd64-bin grub-pc-bin`
+- `$ sudo apt-get update` 
+
+**Instalação Github do systemback**
 - `$ git clone https://github.com/VictorHugoLG/systemback_1.9.3.git`
 - `$ cd systemback_1.9.3/`
 - `$ chmod 777 install.sh`
@@ -53,3 +57,8 @@ Insira um pen drive se você ainda não fez isso. Clique no arqueiro verde de vo
 Você verá uma caixa de diálogo de confirmação. Clique em Iniciar. O sistema de volta grava a nova imagem para o seu pen drive. Uma barra de progresso é exibida.
 
 Você também pode criar um .iso a partir da imagem ao vivo criada. Clique em sua nova imagem ao vivo. Em seguida, clique em Converter para ISO.
+
+
+## Autores
+
+| [<img src="" width=115><br><sub>VictorHugoLG</sub>](https://github.com/victorhugolg) |  [<img src="" width=115><br><sub>JoselitoSF</sub>](https://github.com/jsfilho) | 
