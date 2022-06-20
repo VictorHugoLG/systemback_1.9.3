@@ -14,7 +14,7 @@ Distribuição Systemback 1.9.3 para:
 ## 🛠️ INSTALAÇÃO
                           
 **Instalação de dependências**
-- `$ sudo apt install libqt5core5a live-boot isolinux syslinuux-utils libqt5gui5 libqt5widgets xterm`
+- `$ sudo apt install libqt5core5a live-boot isolinux syslinux-utils libqt5gui5 libqt5widgets5 xterm`
 - `$ sudo apt-get install unionfs-fuse live-boot`
 - `$ sudo apt-get install grub2-common grub-efi-amd64-bin grub-pc-bin`
 - `$ sudo apt-get update` 
